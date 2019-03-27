@@ -21,7 +21,7 @@ Laplacian Filter
 
 Sharpened Image
 ![alt text](https://github.com/hqdang/LoG-in-the-frequency-Domain/blob/master/city_sharpened.jpg)
-c = -30
+c = -30, sigma = 64
 
 Original vs Sharpened Image
 ![alt text](https://github.com/hqdang/LoG-in-the-frequency-Domain/blob/master/city_original%20vs%20sharpened.jpg)
